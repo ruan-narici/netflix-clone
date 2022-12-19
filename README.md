@@ -13,4 +13,4 @@ This project is a clone of layout of platform of streaming netflix.<br>
 <strong>This is not working for view films and series.</strong>
 
 ## Preview 
-![](./public/img/preview.png.png)
+![](./public/img/preview.png)
